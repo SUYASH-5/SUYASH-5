@@ -25,7 +25,7 @@
 
 ## 🌐 Socials:
 <p align="center">
-<a href="https://www.linkedin.com/in/suyash-kumar-99504b278/" target="(https://www.linkedin.com/in/suyash-kumar-99504b278/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suyash-dubey-99504b278/" target="(https://www.linkedin.com/in/suyash-kumar-99504b278/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/5_suyash/" target="(https://www.instagram.com/5_suyash/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/5_suyash/" target="(https://leetcode.com/u/5_suyash/)"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
