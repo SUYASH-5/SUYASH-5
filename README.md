@@ -19,7 +19,7 @@
 👨‍💻 All of my projects are available at [https://github.com/SUYASH-5](https://github.com/SUYASH-5)<br><br>
 💬 Ask me about **Java, Node.js, React, GSAP, Three.js, PostgreSQL, MongoDB**<br><br>
 📫 How to reach me: **dubeysuyash063@gmail.com**<br><br>
-📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/suyash-kumar-99504b278/)
+📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/suyash-dubey-99504b278/)
 
 ---
 
